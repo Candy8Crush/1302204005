@@ -1,6 +1,6 @@
 # LaundryApp
 
-# PROJECT BY CANDYCRUH 
+# PROJECT BY CANDYCRUSH 
 
 # Anggota 
 1. Elia Angga 
